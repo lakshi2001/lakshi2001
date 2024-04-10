@@ -1,7 +1,8 @@
-![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
+![MasterHead](https://unevoc.unesco.org/home/pix/innovation_header2.gif)
 <h1 align="center">Hi 👋, I'm Lakshika Jayasinghe</h1>
 <h3 align="center">BSc(Hons)Software Engineering Undergraduate</h3>
 <img align="right" alt="Coding" width="400" src= "https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshi2001&label=Profile%20views&color=0e75b6&style=flat" alt="lakshi2001" /> </p>
 
 
